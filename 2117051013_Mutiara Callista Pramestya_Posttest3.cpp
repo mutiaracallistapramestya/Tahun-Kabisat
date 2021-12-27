@@ -22,7 +22,6 @@ int K;
 		
 	}
 	
-	
 	return 0;
 	
 }
